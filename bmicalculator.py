@@ -13,4 +13,4 @@ elif 18.5 <= bmi < 25:
 elif bmi >= 25:
 	print('your bmi is too high.')
 else:
-	print('please reenter valid figure)
+	print('please reenter valid figure.')
