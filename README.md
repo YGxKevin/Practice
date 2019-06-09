@@ -1,1 +1,1 @@
-# this is a program that i practiced and uploaded to github first. 
+# this is a first respository which upload my practice.
