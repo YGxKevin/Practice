@@ -1,3 +1,4 @@
+# this is a BMI calculator practice.
 print('Hi This is a BMI calculator')
 name = input('name: ')
 height = input('height(m): ')
